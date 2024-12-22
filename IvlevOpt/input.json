@@ -1,0 +1,23 @@
+{
+    "alpha" : 2.1,
+    "delta" : 1.123,
+    "delta_r" : 1.64, 
+    "delta_a" : 1.41,
+    "omega" : 12,
+    "g_r" : 1.12,
+    "g_a" : 2.24,
+    "size_r": 32,
+    "size_q": 16,
+    "size_a": 8,
+    "gamma_a": 1.746,
+    "gamma_q": 0.75,
+    "gamma_r": 1.463,
+    "gamma_f": 0.25,
+    "h": 0.01,
+    "n": 10000,
+    "start": 0,
+    "mod": 6,
+    "t": 3,
+    "log": false,
+    "test": false
+}
